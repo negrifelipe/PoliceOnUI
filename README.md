@@ -5,7 +5,7 @@ This is a simple police on count for your unturned server
 
 F.Plugins Discord Support: https://discord.gg/8zded6r
 
-Plugin Download:
+Plugin Download: https://github.com/01-Feli/PoliceOnUI/releases/tag/1.0
 # Configuration File
 ```
 <?xml version="1.0" encoding="utf-8"?>
